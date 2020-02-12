@@ -1,6 +1,6 @@
 # CIFAR-10 Image Dataset Multiclass Clasification          
 
-This work consists of a deep learning model for the well-known color image classification problem, **CIFAR-10.**, utilizing convolutional neural networks.
+This work consists of a deep learning model for the well-known color image classification problem, **CIFAR-10**, utilizing convolutional neural networks.
 
 As an initial work, a simple deep learning model is built and through building more advanced models by *adding layers, tuning size's of layers, use of regularizers, utilizing dropout and batch normalization*, the boundary of overfitting is aimed. The model aims to predict the classes of images with high accuracy while maintaining a low loss value. 
 
